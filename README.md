@@ -9,7 +9,7 @@ CoinStats is a comprehensive cryptocurrency portfolio tracker that provides real
 - **Real-time Market Data:** Stay updated with live price charts, historical data, and market trends.
 - - **Portfolio Tracking:** Track the performance of your cryptocurrency investments in real-time.
   - - **Alerts and Notifications:** Set up custom alerts for price changes, volume, and other market events.
-    - - **Multi-Platform Support:** Access CoinStats on various platforms, including mobile devices and desktops.
+    - - **Multi-Platform Support:** Access CoinStats on  various latforms, including mobile devices and desktops.
       - - **Portfolio Diversification:** Monitor and manage a diversified portfolio with ease.
         - - **User-Friendly Interface:** Intuitive design for seamless navigation and quick decision-making.
          
